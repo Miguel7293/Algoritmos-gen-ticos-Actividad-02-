@@ -1,0 +1,98 @@
+{
+  "ejemplo": "Neuroevolución",
+  "semilla": 10,
+  "n_train": 180,
+  "n_validacion": 60,
+  "n_test": 60,
+  "referencia_validacion": 0.9833333333333333,
+  "mejor_validacion": 1.0,
+  "referencia_test": 0.9666666666666667,
+  "ag_test": 1.0,
+  "ganador": {
+    "capa1": 8,
+    "capa2": 2,
+    "activacion": "relu"
+  },
+  "capas_ocultas": [
+    8,
+    2
+  ],
+  "evaluaciones_unicas": 14,
+  "avisos_convergencia_busqueda": 0,
+  "avisos_convergencia_referencia_final": 0,
+  "avisos_convergencia_ganador_final": 0,
+  "historial": [
+    {
+      "generacion": 0,
+      "mejor": 1.0,
+      "media": 0.8666666666666667,
+      "peor": 0.7333333333333333
+    },
+    {
+      "generacion": 1,
+      "mejor": 1.0,
+      "media": 0.9895833333333333,
+      "peor": 0.9666666666666667
+    },
+    {
+      "generacion": 2,
+      "mejor": 1.0,
+      "media": 0.91875,
+      "peor": 0.7333333333333333
+    },
+    {
+      "generacion": 3,
+      "mejor": 1.0,
+      "media": 0.9895833333333333,
+      "peor": 0.9833333333333333
+    },
+    {
+      "generacion": 4,
+      "mejor": 1.0,
+      "media": 0.9104166666666667,
+      "peor": 0.5166666666666667
+    },
+    {
+      "generacion": 5,
+      "mejor": 1.0,
+      "media": 0.9916666666666667,
+      "peor": 0.9666666666666667
+    },
+    {
+      "generacion": 6,
+      "mejor": 1.0,
+      "media": 0.9479166666666667,
+      "peor": 0.8666666666666667
+    },
+    {
+      "generacion": 7,
+      "mejor": 1.0,
+      "media": 0.9145833333333333,
+      "peor": 0.5166666666666667
+    },
+    {
+      "generacion": 8,
+      "mejor": 1.0,
+      "media": 0.98125,
+      "peor": 0.9666666666666667
+    },
+    {
+      "generacion": 9,
+      "mejor": 1.0,
+      "media": 0.8895833333333334,
+      "peor": 0.7333333333333333
+    },
+    {
+      "generacion": 10,
+      "mejor": 1.0,
+      "media": 0.95625,
+      "peor": 0.7333333333333333
+    }
+  ],
+  "versiones": {
+    "python": "3.11.7",
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

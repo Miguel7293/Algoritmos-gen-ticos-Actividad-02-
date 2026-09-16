@@ -1,0 +1,117 @@
+{
+  "ejemplo": "Hiperparámetros",
+  "semilla": 42,
+  "n_desarrollo": 142,
+  "n_test": 36,
+  "referencia_cv": 0.9510933806146573,
+  "mejor_cv": 0.9580378250591016,
+  "referencia_test": 1.0,
+  "ag_test": 1.0,
+  "ganador": {
+    "n_estimators": 80,
+    "max_depth": 12,
+    "min_samples_split": 3,
+    "max_features": "log2",
+    "criterion": "entropy"
+  },
+  "evaluaciones_unicas": 47,
+  "historial": [
+    {
+      "gen": 0,
+      "best": 0.9510933806146573,
+      "mean": 0.9234338061465721,
+      "worst": 0.9083924349881797,
+      "genes": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "min_samples_split": 2,
+        "max_features": "sqrt",
+        "criterion": "gini"
+      }
+    },
+    {
+      "gen": 1,
+      "best": 0.9510933806146573,
+      "mean": 0.9320035460992907,
+      "worst": 0.8945035460992908,
+      "genes": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "min_samples_split": 2,
+        "max_features": "sqrt",
+        "criterion": "gini"
+      }
+    },
+    {
+      "gen": 2,
+      "best": 0.9580378250591016,
+      "mean": 0.945419621749409,
+      "worst": 0.9157801418439716,
+      "genes": {
+        "n_estimators": 80,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "max_features": "log2",
+        "criterion": "entropy"
+      }
+    },
+    {
+      "gen": 3,
+      "best": 0.9580378250591016,
+      "mean": 0.940410756501182,
+      "worst": 0.9083924349881797,
+      "genes": {
+        "n_estimators": 80,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "max_features": "log2",
+        "criterion": "entropy"
+      }
+    },
+    {
+      "gen": 4,
+      "best": 0.9580378250591016,
+      "mean": 0.9467937352245863,
+      "worst": 0.91548463356974,
+      "genes": {
+        "n_estimators": 80,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "max_features": "log2",
+        "criterion": "entropy"
+      }
+    },
+    {
+      "gen": 5,
+      "best": 0.9580378250591016,
+      "mean": 0.948153073286052,
+      "worst": 0.91548463356974,
+      "genes": {
+        "n_estimators": 80,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "max_features": "log2",
+        "criterion": "entropy"
+      }
+    },
+    {
+      "gen": 6,
+      "best": 0.9580378250591016,
+      "mean": 0.9481678486997633,
+      "worst": 0.9156323877068558,
+      "genes": {
+        "n_estimators": 80,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "max_features": "log2",
+        "criterion": "entropy"
+      }
+    }
+  ],
+  "versiones": {
+    "python": "3.11.7",
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

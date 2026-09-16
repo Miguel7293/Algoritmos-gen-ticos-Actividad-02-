@@ -1,0 +1,123 @@
+{
+  "ejemplo": "Selección de características",
+  "semilla": 42,
+  "n_desarrollo": 142,
+  "n_test": 36,
+  "referencia_cv": 0.9719267139479907,
+  "mejor_cv": 1.0,
+  "fitness": 0.9892307692307692,
+  "penalizacion": 0.02,
+  "referencia_test": 0.9722222222222222,
+  "ag_test": 0.9722222222222222,
+  "n_variables": 7,
+  "variables": [
+    "alcohol",
+    "ash",
+    "alcalinity_of_ash",
+    "flavanoids",
+    "color_intensity",
+    "hue",
+    "proline"
+  ],
+  "mascara": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1
+  ],
+  "evaluaciones_unicas": 108,
+  "historial": [
+    {
+      "generacion": 0,
+      "mejor": 0.9571422076741226,
+      "media": 0.9013980666939443,
+      "peor": 0.6022717766866703,
+      "variables": 5
+    },
+    {
+      "generacion": 1,
+      "mejor": 0.9753418803418804,
+      "media": 0.9454243385160939,
+      "peor": 0.9190475541007457,
+      "variables": 7
+    },
+    {
+      "generacion": 2,
+      "mejor": 0.9822863247863247,
+      "media": 0.9585554191671213,
+      "peor": 0.9104168939807238,
+      "variables": 7
+    },
+    {
+      "generacion": 3,
+      "mejor": 0.9822863247863247,
+      "media": 0.9612280357792325,
+      "peor": 0.8479778141480269,
+      "variables": 7
+    },
+    {
+      "generacion": 4,
+      "mejor": 0.9822863247863247,
+      "media": 0.9692448342880524,
+      "peor": 0.9401763957083106,
+      "variables": 7
+    },
+    {
+      "generacion": 5,
+      "mejor": 0.9861538461538462,
+      "media": 0.9707761638479724,
+      "peor": 0.9360133660665576,
+      "variables": 9
+    },
+    {
+      "generacion": 6,
+      "mejor": 0.9861538461538462,
+      "media": 0.9668861952173122,
+      "peor": 0.8854205310056373,
+      "variables": 9
+    },
+    {
+      "generacion": 7,
+      "mejor": 0.9861538461538462,
+      "media": 0.959958117384979,
+      "peor": 0.8814052555010001,
+      "variables": 9
+    },
+    {
+      "generacion": 8,
+      "mejor": 0.9861538461538462,
+      "media": 0.9727762718221495,
+      "peor": 0.9129028005091834,
+      "variables": 9
+    },
+    {
+      "generacion": 9,
+      "mejor": 0.9861538461538462,
+      "media": 0.9726182317239498,
+      "peor": 0.9360133660665576,
+      "variables": 9
+    },
+    {
+      "generacion": 10,
+      "mejor": 0.9892307692307692,
+      "media": 0.9692980541916711,
+      "peor": 0.876346608474268,
+      "variables": 7
+    }
+  ],
+  "versiones": {
+    "python": "3.11.7",
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}
