@@ -20,7 +20,7 @@ código, explicaciones, salidas de una ejecución completa, gráficos y exportac
 | Selección de características (nuevo) | [ag_feature_selection_colab.ipynb](ag_feature_selection_colab.ipynb) | [Abrir en Colab](https://colab.research.google.com/github/Miguel7293/Algoritmos-gen-ticos-Actividad-02-/blob/main/ag_feature_selection_colab.ipynb) |
 | Optimización de hiperparámetros (revisado) | [ag_hpo_colab.ipynb](ag_hpo_colab.ipynb) | [Abrir en Colab](https://colab.research.google.com/github/Miguel7293/Algoritmos-gen-ticos-Actividad-02-/blob/main/ag_hpo_colab.ipynb) |
 | Neuroevolución (revisado) | [Untitled4.ipynb](Untitled4.ipynb) | [Abrir en Colab](https://colab.research.google.com/github/Miguel7293/Algoritmos-gen-ticos-Actividad-02-/blob/main/Untitled4.ipynb) |
-| Resumen ejecutivo, 2 páginas | [Descargar PDF](output/pdf/Resumen_ejecutivo_Actividad_02.pdf) | Entregar en el aula virtual |
+| Carátula + resumen ejecutivo, 3 páginas en total | [Descargar PDF](output/pdf/Resumen_ejecutivo_Actividad_02.pdf) | Entregar en el aula virtual |
 | Evidencia de ejecución | [Resultados JSON](resultados/) | Métricas, versiones e historiales |
 
 Se conserva el nombre `Untitled4.ipynb` para mantener la continuidad con el cuaderno original;
@@ -153,7 +153,7 @@ o clona el repositorio y abre los archivos en tu navegador; GitHub muestra el c�
 ## Entrega y exposición
 
 La consigna evalúa explicación y funcionamiento de cada ejemplo (18 puntos) y PDF/README (2 puntos).
-El PDF tiene **dos páginas** e incluye el enlace a este repositorio. El equipo debe subirlo al aula virtual
+El PDF tiene **tres páginas: una carátula y dos de resumen ejecutivo** e incluye el enlace a este repositorio. El equipo debe subirlo al aula virtual
 y estar preparado para ejecutar y explicar los tres ejemplos. La entrega al aula virtual no se realiza
 automáticamente desde este repositorio.
 
